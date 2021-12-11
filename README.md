@@ -29,6 +29,9 @@ cd BulletSimulation
 python3 get_parameters.py
 python3 sample.py
 ```
+[![Watch the video](https://github.com/JACOBIN-SCTCS/CP214_Project/blob/main/images/urdf.png)](https://www.youtube.com/watch?v=8i8MUIwT3Dw)
+### Youtube Video Link : https://www.youtube.com/watch?v=8i8MUIwT3Dw
 
 ![pybulletenv](https://github.com/JACOBIN-SCTCS/CP214_Project/blob/main/images/pybulletenv.png)
+
 
